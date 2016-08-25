@@ -1,0 +1,8 @@
+sudo apt-get update
+sudo apt-get install emacs
+sudo apt-get install slime
+sudo apt-get install libjpeg-progs
+sudo apt-get install  gif2png
+sbcl --load quicklisp.lisp
+
+
